@@ -2,7 +2,7 @@
 
 ## About the project
 
-The purpose of the project is to implement CNN and MLP image classifiers and compare the performance of them on a subset of the CIFAR 10 dataset. 
+The purpose of the project is to implement convolutional neural network (CNN) and multilayer perceptron (MLP) image classifiers and compare the performance of them on a subset of the CIFAR 10 dataset. 
 
 <br>
 
